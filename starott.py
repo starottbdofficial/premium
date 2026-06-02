@@ -3,7 +3,7 @@ from datetime import datetime
 import pytz
 import re
 
-# আপনার নতুন স্পোর্টস সোর্স ইউআরএলগুলো
+# আপনার স্পোর্টস ও টিভি সোর্স ইউআরএলগুলো
 urls = [
     "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u",
@@ -23,26 +23,66 @@ def clean_channel_and_telegram(text):
     for word in junk:
         text = text.replace(word, "")
     
-    # ডাবল স্পেস বা বাড়তি কমা থাকলে তা ঠিক করা
     text = re.sub(r'\s+', ' ', text)
     return text.strip().strip(',')
 
 def determine_group_by_name(channel_name):
     name_upper = channel_name.upper()
     
-    # ফিফা ওয়ার্ল্ড কাপ এবং ফুটবল ম্যাচ ফিল্টার
-    if any(x in name_upper for x in ["FIFA", "WORLD CUP", "FOOTBALL", "WC"]):
-        return "FIFA WORLD CUP"
+    # ১. FIFA World Cup
+    if any(x in name_upper for x in ["FIFA", "WORLD CUP", "WC"]):
+        return "FIFA World Cup"
         
-    # ক্রিকেট ও লাইভ স্পোর্টস ফিল্টার
-    if any(x in name_upper for x in ["CRICKET", "IPL", "T20", "ODI", "TEST", "SPORTS", "LIVE"]):
-        return "LIVE SPORTS"
+    # ২. Live Event
+    if "LIVE EVENT" in name_upper:
+        return "Live Event"
         
-    # বাংলা ও লোকাল চ্যানেল ফিল্টার
-    if any(x in name_upper for x in ["BANGLA", "BD", "SONY", "STAR", "ZEE", "TSPORTS", "GTV"]):
-        return "LIVE TV"
+    # ৩. Cricket
+    if any(x in name_upper for x in ["CRICKET", "IPL", "T20", "ODI", "TEST", "BPL", "BIG BASH"]):
+        return "Cricket"
         
-    return "SPORTS EVENTS"
+    # ৪. Bangladesh 🇧🇩
+    if any(x in name_upper for x in ["BANGLADESH", "BD ", "BANGLA", "BTV", "GTV", "TSPORTS", "SOMOY", "JAMUNA", "NTV", "RTV"]):
+        return "Bangladesh 🇧🇩"
+        
+    # ৫. Kolkata Special
+    if any(x in name_upper for x in ["STAR JALSHA", "ZEE BANGLA", "JALSHA", "RUPASHI", "AKASH AATH", "KOLKATA"]):
+        return "Kolkata Special"
+        
+    # ৬. India
+    if any(x in name_upper for x in ["INDIA", "SONY", "STAR ", "COLORS", "ZEE TV", "SAB TV", "ASIAD"]):
+        return "India"
+        
+    # ৭. News
+    if any(x in name_upper for x in ["NEWS", "24X7", "KHABAR"]):
+        return "News"
+        
+    # ৮. Sports
+    if any(x in name_upper for x in ["SPORTS", "TEN ", "FOX ", "ESPN", "CANAL"]):
+        return "Sports"
+        
+    # ৯. Kids
+    if any(x in name_upper for x in ["KIDS", "NICK", "CARTOON", "DISNEY", "POGO", "SONY YAY"]):
+        return "Kids"
+        
+    # ১০. Documentary
+    if any(x in name_upper for x in ["DOCUMENTARY", "DISCOVERY", "NAT GEO", "GEOGRAPHIC", "ANIMAL PLANET", "HISTORY"]):
+        return "Documentary"
+        
+    # ১১. Music
+    if any(x in name_upper for x in ["MUSIC", "MTV", "9XM", "ZOOM", "SONG"]):
+        return "Music"
+        
+    # ১২. Movie
+    if any(x in name_upper for x in ["MOVIE", "CINEMA", "HBO", "STAR MOVIES", "PIX", "ACTION"]):
+        return "Movie"
+        
+    # ১৩. Islamic TV
+    if any(x in name_upper for x in ["ISLAMIC", "ISLAM", "MAKKAH", "MADINAH", "PEACE TV", "AS-SUNNAH", "QURAN"]):
+        return "Islamic TV"
+        
+    # ১৪. Default: International TV Channel
+    return "International TV Channel"
 
 def create_starott_playlist():
     bd_tz = pytz.timezone('Asia/Dhaka')
@@ -71,28 +111,25 @@ def create_starott_playlist():
                 for ext_block, stream_url in blocks:
                     stream_url = stream_url.strip()
                     
+                    # কন্ডিশন: লিংকে drive.google.com থাকলে সেই চ্যানেল সম্পূর্ণ রিমুভ (স্কিপ) হবে
+                    if "drive.google.com" in stream_url:
+                        print(f"Skipping Google Drive link: {stream_url}")
+                        continue
+                    
                     if stream_url and stream_url not in seen_links:
                         # মূল চ্যানেলের নাম বের করা এবং পরিষ্কার করা
                         name_part = ext_block.split(",")[-1].split("\n")[0]
                         final_name = clean_channel_and_telegram(name_part)
                         
-                        # নাম যদি একদম খালি হয়ে যায় (শুধু টেলিগ্রাম লিংক থাকার কারণে), তবে স্কিপ করবে
                         if not final_name:
                             continue
 
-                        # চ্যানেলের নাম অনুযায়ী ক্যাটাগরি নির্ধারণ
+                        # চ্যানেলের নাম অনুযায়ী নতুন কাস্টম ক্যাটাগরি নির্ধারণ
                         final_group = determine_group_by_name(final_name)
 
                         # লোগো বের করা
                         logo_match = re.search(r'tvg-logo="([^"]+)"', ext_block)
                         final_logo = logo_match.group(1) if (logo_match and logo_match.group(1)) else DEFAULT_LOGO
-
-                        # গ্রুপ টাইটেল থেকে টেলিগ্রাম রিমুভ করা
-                        group_match = re.search(r'group-title="([^"]+)"', ext_block)
-                        if group_match:
-                            clean_group_title = clean_channel_and_telegram(group_match.group(1))
-                            if any(x in clean_group_title.upper() for x in ["FIFA", "WORLD CUP", "FOOTBALL"]):
-                                final_group = "FIFA WORLD CUP"
 
                         # ক্যাটাগরির শুরুতে IBS TV প্রমোশন যুক্ত করার লজিক
                         if final_group not in added_groups:
@@ -125,4 +162,4 @@ def create_starott_playlist():
 
 if __name__ == "__main__":
     create_starott_playlist()
-  
+                                     
