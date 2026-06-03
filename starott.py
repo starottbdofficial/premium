@@ -92,7 +92,7 @@ def create_starott_playlist():
 # Playlist Name: StarOTT Premium Sports
 # Last Update: {current_time} (BD Time)
 # Owner: Md. Sakib Hasan
-# Telegram: https://t.me/bdixiptvbd\n"""
+# Telegram: https://t.me/ibstvbd\n"""
 
     DEFAULT_LOGO = "https://bdixiptvbd.com/logo.png"
     seen_links = set()
