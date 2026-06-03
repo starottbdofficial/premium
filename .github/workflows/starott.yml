@@ -2,8 +2,8 @@ name: Auto Update StarOTT Premium
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর স্বয়ংক্রিয়ভাবে চলবে
-  workflow_dispatch:        # ম্যানুয়ালি রান করার বাটন
+    - cron: '0 * * * *' # প্রতি ১ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে চলবে
+  workflow_dispatch:      # ম্যানুয়ালি রান করার বাটন
 
 jobs:
   build:
@@ -27,7 +27,7 @@ jobs:
           pip install requests pytz
 
       - name: Run StarOTT Premium Scraper
-        run: python starott.py # এখানে starott.py রান করা হচ্ছে
+        run: python starott.py
 
       - name: Commit and Push Changes
         run: |
