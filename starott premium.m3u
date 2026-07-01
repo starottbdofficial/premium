@@ -1,16 +1,38 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 05:40 PM 01-07-2026 (BD Time)
+# Last Update: 12:31 AM 02-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="Cricket",--- [ Cricket PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=PUavp7yM_D-6LU16w4snPQ&expires=1782910246
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=mxabtKjMCxImFIBNITka1Q&expires=1782910246
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=ZZ8jEGGqiKIRI_cBDCBGaA&expires=1782910247
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=cBjeouMhY0Y6xH9OprS6zg&expires=1782935452
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=PGlvFQCWI_ZWuSSOIQNBaQ&expires=1782935452
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=wApWhwYWgl__KgsCKJ02Vg&expires=1782935452
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_India_1st_T20I.jpg" group-title="Cricket",England vs India - 1st T20I [423]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=40785b462429bdcd56338a84d57d0efac1009363&x-sign=ff377ad5a2247dbcf9ef9f54011da3ce&x-time=1782930600
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="India",--- [ India PROMO ] ---
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=dgkquHiuNiUUGWJjR1U2IA&expires=1782935453
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago_White_Sox_VS_Baltimore_Orioles_MLB.jpg" group-title="International TV Channel",Chicago White Sox vs Baltimore Orioles - MLB [55835]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=40785b462429bdcd56338a84d57d0efac1009363&x-sign=ee63e94e327f9bf958e6f4da00f8d0ab&x-time=1782930660
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Forge_VS_Vancouver_FC_Canadian_Premier_League.jpg" group-title="International TV Channel",Forge vs Vancouver FC - Canadian Premier League [450]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=40785b462429bdcd56338a84d57d0efac1009363&x-sign=4938a55bb3d2bcf3bae6ab93afd9b29e&x-time=1782930660
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="International TV Channel",Texas Rangers vs Cleveland Guardians - MLB [55836]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=40785b462429bdcd56338a84d57d0efac1009363&x-sign=4252593c8a984fe0fb052cfd2f3c1702&x-time=1782930660
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="International TV Channel",Detroit Tigers vs New York Yankees - MLB [55838]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=40785b462429bdcd56338a84d57d0efac1009363&x-sign=7646ef4336a7fc390f8571b584474429&x-time=1782930660
