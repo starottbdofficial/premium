@@ -1,21 +1,21 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 02:48 AM 07-07-2026 (BD Time)
+# Last Update: 04:07 AM 07-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="Cricket",--- [ Cricket PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=si148br83WOgdbK9exAYHA&expires=1783374656
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=Nlxxpgw43q803pWcKrlZpQ&expires=1783380060
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=HjkkZ4-BYn5rxv7qdDvpWA&expires=1783374656
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=gE6ZtEmz3vfVNHATpVkFpg&expires=1783380060
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=qOAXSQ6f1Tw4Z9APPrb4-Q&expires=1783374657
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=zevER5FB2iTOY1zxtHxTKw&expires=1783380060
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="International TV Channel",West Indies vs Sri Lanka (BBTSP2)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=7CT9egQqq6Dx-ZU2NzWJ_w&expires=1783374657
+https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=-QOSOy1FFpQFWGLsB64znQ&expires=1783380060
