@@ -1,26 +1,26 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 12:48 AM 12-07-2026 (BD Time)
+# Last Update: 02:00 AM 12-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="FIFA World Cup",--- [ FIFA World Cup PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/New%20Zealand%20vs%20West%20Indies.png" group-title="FIFA World Cup",New Zealand vs West Indies (BBTESPN)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=czvQlfdI7BXUdxa9YJSjFA&expires=1783799454
+https://cdn8.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=mMAEoIyhn-22NVEznvYMFQ&expires=1783803053
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="Cricket",--- [ Cricket PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=NO11JrCuaJw_TkBV15Fdzw&expires=1783799453
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=a7g3MXmg2qtmtb-GiV7g3Q&expires=1783799453
+https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=9aUaoFA0DNWtWsmX55OlsA&expires=1783803052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=x3iPDm2XXXokOg-hJdtzPQ&expires=1783799453
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=zaBBxW9WfPeP84GQHO1nlA&expires=1783803052
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=yJDaBciPv0L4gGNSiss9Xw&expires=1783803052
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="India",--- [ India PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=B0TeUBZzhlZmP-L1itixwQ&expires=1783799454
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=fTGxSQCkqlNE3XkmAgPuJw&expires=1783803053
