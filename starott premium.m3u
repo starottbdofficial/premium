@@ -1,21 +1,21 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 02:51 AM 15-07-2026 (BD Time)
+# Last Update: 03:50 AM 15-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="Cricket",--- [ Cricket PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=f1z2PE7clOvZKOUa0GpsZg&expires=1784065862
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=00wMbhuM3sJ9T6dCHIGSPg&expires=1784065862
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=OZ3m4Oaa1ehcsMaCHjg8FA&expires=1784069461
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=L0JBQh8Xhmb9tBhN0RFYKg&expires=1784069461
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=C36TRS9gEWuM3b_sEnNyDQ&expires=1784065863
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=k1NikDHwtf4OBNgZfZcCkA&expires=1784069462
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="India",--- [ India PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Oi22cy6fcjB-6RJDjTDb9w&expires=1784065863
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=EWFZdMz5neuBAuAjhScY_Q&expires=1784069462
