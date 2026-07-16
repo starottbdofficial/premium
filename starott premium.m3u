@@ -1,21 +1,21 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 05:43 PM 16-07-2026 (BD Time)
+# Last Update: 07:25 PM 16-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="Cricket",--- [ Cricket PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=k42-lM-FoxACsO9lNis37w&expires=1784206257
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=BVvOMKYjOpgRxxydVhYf2A&expires=1784211663
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=qRWTRxeBq9YE9fqREttafw&expires=1784206257
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=TRafliLHY7xliPxGkYbVrw&expires=1784211663
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Cricket",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=g-Yl-yfA8CAZWqWYzPo0KA&expires=1784206257
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=O2mTn52z1jjxARl0oTUOBQ&expires=1784211663
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="India",--- [ India PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=6zNnJbgo65dtxkv_IIKgLA&expires=1784206257
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=7np5Xo6M9gg2g-M_75KxsQ&expires=1784211664
