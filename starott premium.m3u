@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 04:42 AM 20-07-2026 (BD Time)
+# Last Update: 05:50 AM 20-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="India",--- [ India PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=QId6hELMg5UwaHFgCMQeuA&expires=1784505036
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=pnscvtI7FPZsrqPsRwq6VA&expires=1784508633
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=J4pije77J_nWSQFO9g-Jhg&expires=1784505036
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=eRI_8ttEBoqzcbVdkNUVkw&expires=1784508633
