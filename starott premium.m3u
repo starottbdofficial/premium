@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 12:54 AM 20-07-2026 (BD Time)
+# Last Update: 02:03 AM 20-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="India",--- [ India PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=JYQt6-DRYV_tQnm334aIvA&expires=1784490631
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=rndKqT4iw_TKqVTs07IfbA&expires=1784490632
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=q-VLUdQO6K27dNEcPlZgHg&expires=1784496038
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="India",India vs England (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=YdAAJynI-dMerR1hUiM1Gg&expires=1784496038
