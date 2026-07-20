@@ -1,10 +1,9 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 12:08 PM 20-07-2026 (BD Time)
+# Last Update: 03:51 PM 20-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/New%20Zealand%20vs%20West%20Indies.png" group-title="International TV Channel",New Zealand vs West Indies (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ApBI-ezNmRJ9RtPjqd2-Sg&expires=1784532043
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="International TV Channel",No Live Match Available Right Now
+http://dummy-link.local
