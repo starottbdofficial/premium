@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 02:07 AM 26-07-2026 (BD Time)
+# Last Update: 03:45 AM 26-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="International TV Channel",West Indies vs Pakistan (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=yEXNw0SQEkpjdYHkiu7_yw&expires=1785014435
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="International TV Channel",West Indies vs Pakistan (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=lVOhCAAHO8bf_sumymBmpw&expires=1785014435
+https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=RzHDg_ChtBjduF0MWiyFew&expires=1785019830
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="International TV Channel",West Indies vs Pakistan (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=d40P_WxjMMHuK725wnoqRg&expires=1785019831
