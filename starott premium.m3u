@@ -1,13 +1,18 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 05:57 PM 25-07-2026 (BD Time)
+# Last Update: 07:23 PM 25-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="India",--- [ India PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="India",Zimbabwe vs India (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="India",Zimbabwe vs India (SONYTEN3)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=zsM_O9nhRs6GJ2qhbYZcug&expires=1784983830
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="India",Zimbabwe vs India (STAR1IN)
+https://cdn7.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=SKN-aFrZxYet56WsfqxylA&expires=1784989242
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="India",Zimbabwe vs India (SONYTEN1)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=d-S_hsfA87jfcDkzMR7cRw&expires=1784983830
+https://cdn9.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=03FpOp9WQu0ZxBSytedXIg&expires=1784989242
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="International TV Channel",West Indies vs Pakistan (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Po--vHiR3J5hsyNAkHcxlQ&expires=1784989242
