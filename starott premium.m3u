@@ -1,21 +1,21 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 09:59 PM 26-07-2026 (BD Time)
+# Last Update: 11:06 PM 26-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="India",--- [ India PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="India",Zimbabwe vs India (SONYTEN3)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=UrOLFjEIw9euFQvqlIjOuw&expires=1785084632
+https://cdn6.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=pkRLZGFHWyOspvi7PzO4dQ&expires=1785090037
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="India",Zimbabwe vs India (SONYTEN1)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=GMpWj9Ebex4sdXOwm6zIwQ&expires=1785084632
+https://cdn2.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=VsyziXv7TRFc-NPJ90ETng&expires=1785090037
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="International TV Channel",West Indies vs Pakistan (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=JVtLRgX8oEhfi5P-JII4qQ&expires=1785084632
+https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=8DRBy9kgAfabzFj4mDUueg&expires=1785090036
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="International TV Channel",West Indies vs Pakistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=iOi5aALnLtfkXsUkuBnRlw&expires=1785084632
+https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=tRihlO1uNzzUPrwICuS2ug&expires=1785090036
