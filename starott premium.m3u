@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 03:51 AM 27-07-2026 (BD Time)
+# Last Update: 04:52 AM 27-07-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="International TV Channel",West Indies vs Pakistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=X2IrJrEkaSM9JMGb1wTXPg&expires=1785106233
+https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=e9Dq39jFMy1U9JBiu13ZvQ&expires=1785109837
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="International TV Channel",West Indies vs Pakistan (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=e2VlQNCgKcZ4q1vKb9dgwA&expires=1785106233
+https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ExynOrLUIbEy9bWFpirtXA&expires=1785109837
