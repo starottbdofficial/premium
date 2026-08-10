@@ -1,5 +1,27 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 01:14 PM 10-08-2026 (BD Time)
+# Last Update: 03:09 PM 10-08-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/East%20Delhi%20Riders%20vs%20West%20Delhi%20Lions.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=ATsJJGvpWIQSVj-Tvnqmrw&expires=1786357247&ch=willowsd&s=37ad669b894274bb8860b5a1f586b448
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/East%20Delhi%20Riders%20vs%20West%20Delhi%20Lions.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=W3HzCGcxtToiMQZSCg-lnw&expires=1786357251&ch=star2cl5&s=3a0a790bc256e6eef678a8d2cb30312c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/East%20Delhi%20Riders%20vs%20West%20Delhi%20Lions.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=a4Vs9doGYpBb6nwp0IzFmA&expires=1786357255&ch=hdwillos5&s=fe0db4dcc0d9e278d4e664d9b236e132
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/East%20Delhi%20Riders%20vs%20West%20Delhi%20Lions.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/bbtsvp2.m3u8?md5=CHn-I3aULfNEm-4QJrxQwA&expires=1786357258&ch=bbtsvp2&s=79b23ec224fdb5b0cbf42143bdc1eb81
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=9pQlFjTWtH7EsifCVZviXA&expires=1786357266&ch=cricgo2&s=f7e5ad8f61fb73c1e65f2ce3d5889137
