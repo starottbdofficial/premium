@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 05:40 PM 13-08-2026 (BD Time)
+# Last Update: 06:51 PM 13-08-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
@@ -8,24 +8,32 @@ https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=MBWi-JBLEXqTtuSRbC4xOA&expires=1786623644&ch=willowsd&s=e32fa75c35d65b5c01beffff2e5eebed
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=YdMybDCLMKTzP24icoXT2A&expires=1786627251&ch=willowsd&s=0f841693ab9d89830a9421c6e4aa3a71
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=2q2qH5cviVhQOaIYMCvV3A&expires=1786623648&ch=willowbuzz&s=80c608d96cf44586297a83cdf2808379
+https://oz2.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=RGwFzfjOi5ubUo7R88ehpg&expires=1786627254&ch=willowbuzz&s=e32b2301baac00bbaf97751cd5393f36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=epQ0_ZRz_GzOUcGQZ2zG-g&expires=1786623651&ch=star1kibich5&s=ba7057adb20df29bbe4318ffb15d9220
+https://oz2.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=-xGbC5Ji-ZCAu6q93l1o2w&expires=1786627258&ch=star1kibich5&s=11ea7aa7ffeec943c1124c1e2259eda8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/gtvbd.m3u8?md5=HTX1r1D36Wfv1petT97PqQ&expires=1786623670&ch=gtvbd&s=8beb0e5dc0ca150e99af64841ff5958c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Queensland%20Cowboys%20vs%20Newcastle%20Knights.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786707146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e6c952ff68fb8656e9fb1af1f3c1ab54
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=rO6JhLkTOcLNxZxyYlEPYw&expires=1786627261&ch=hdwillos5&s=d972ad6bb9d7fcd459abb71ab0e20522
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/gtvbd.m3u8?md5=UjV79Cb9lo03jQF31drkQQ&expires=1786627264&ch=gtvbd&s=5e6184d5e886096472e095737762ede7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=nmaYJ6KjHgb8RyLXMbMyVg&expires=1786627266&ch=cf0sp1&s=6c7e1bc8d5828bde336c6c63064e80fe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham%20Sessione%20mattutina.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786707148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bdf59f05e3b3f4054ba791119c637611
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786711655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fde666815bc508fb9e706fd4a703f8e6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20of%20Czech%20Republic%20%26%20Arctic%20Tour%2C%20Stage%201.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786711657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd4578d05007a6d091699a7a8bbdd3aa
