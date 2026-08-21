@@ -1,51 +1,15 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 06:29 PM 21-08-2026 (BD Time)
+# Last Update: 07:38 PM 21-08-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=V7irCG5wSMfbhDYCqBwoQQ&expires=1787318437&ch=willowsd&s=MTAzLjEyMS4yMjIuMjQw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=UJoF_9hIP1Y-1AXRqYhJJQ&expires=1787318443&ch=ptvskpr&s=MTgwLjE0OS4yMzIuMjc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=p7bZPG360FJbCHtgzYNLrQ&expires=1787318447&ch=hdwillos5&s=MTAzLjEyLjc0LjI0Mg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=PX720ixbaXDUotM95kNa7A&expires=1787318451&ch=cricgo1&s=MjcuMTQ3LjIyNC4xOTc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/dodosky2.m3u8?md5=lZxyWIqMKs6r6N33gozyaQ&expires=1787318455&ch=dodosky2&s=MjAzLjc2LjE0Ny4yMDM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%201.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1787401046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-67b61f1b2d2b0a3d52ae67878d7e6b8e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Lions%20vs%20Collingwood%20Magpies.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787401048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5182aeb158794c8e781903a3146973b7
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1787405543-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bfe2a94acca1b47c9b3c5e6304ac4926
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787401049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8dfa9a59cd2fcfdc9bf7f96fd17e151e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20vs%20JEF%20United%20Chiba.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa2-backup/chunks.m3u8?is_vip=false&token=1787401051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-240e0af5d63924b14446b7a5c6f9ea2c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20vs%20JEF%20United%20Chiba.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa2/chunks.m3u8?is_vip=false&token=1787401052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a58659e489756dbed65f6f4b4c481e4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Round%204%20Netherlands%2C%202026.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1787401053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-35c1d9abe7b7d2a2324e5a1d15bff588
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787405545-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-06b8426a119912465c97f7dbef74cf58
