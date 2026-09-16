@@ -1,15 +1,55 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 02:07 PM 16-09-2026 (BD Time)
+# Last Update: 07:55 PM 16-09-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=kHI-GQYgXGbq-xUQkVwJ3Q&expires=1789568441&ch=willowsd&s=7f6c62c2499e41ecfa7999beb04e02f8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=skPYBsMgp0PLKQPfTCc7vw&expires=1789568444&ch=star2cl5&s=2d0692a2a65b43338c6aad7857191645
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=tlKQZC_7NW2beRULdzpjbw&expires=1789568447&ch=hdwillos5&s=12cd91e48abb0d07d78acbd65ec480f7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=trYXkmvfxzwU8rmE-N607g&expires=1789568450&ch=cricgo5&s=132b8e6fbea48adad3d0f92a80b34856
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/bbtsvp2.m3u8?md5=0EUqxIgKqVNV6lbwqgdH9A&expires=1789568453&ch=bbtsvp2&s=e04ec7b2df23ec6bbabaf6c7831b7af6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789632143-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33353d1be40a2c937a747cbb5c54bf9d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Thailand%20U23%20vs%20Kyrgyz%20Republic%20U23.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789652849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f65c485d5b537df4b7c06d5efff9abb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Port%20FC%20vs%20Vissel%20Kobe.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e5f/chunks.m3u8?is_vip=false&token=1789632146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0e8781fd65e3591c3322232c43056a29
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e7a-fancode/chunks.m3u8?is_vip=false&token=1789652852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f8a30b8203e55981e753bb5c7f52207d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Port%20FC%20vs%20Vissel%20Kobe.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e7a/chunks.m3u8?is_vip=false&token=1789652854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b3167028a865b2fc649579b54052763
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Viettel%20vs%20Melbourne%20Victory.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e7b-fancode/chunks.m3u8?is_vip=false&token=1789652857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-666444303e45d8112442a5130ac63b4b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Viettel%20vs%20Melbourne%20Victory.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e7b/chunks.m3u8?is_vip=false&token=1789652859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-47e8920a7fa13cc8b3f82de8ae5b1b17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cosmics%20vs%20Flames.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789652864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2651f575437a6657c4c5073717f38f3b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grand%20Prix%20Wallonie.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1789652866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a9c54e39c5d3aad873e8380d35f0f50e
