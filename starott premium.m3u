@@ -1,91 +1,47 @@
 #EXTM3U
 # Playlist Name: StarOTT Premium Sports
-# Last Update: 07:02 AM 25-09-2026 (BD Time)
+# Last Update: 12:53 PM 25-09-2026 (BD Time)
 # Owner: Md. Sakib Hasan
 # Telegram: https://t.me/bdixiptvbd
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="International TV Channel",--- [ International TV Channel PROMO ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hong%20Kong%2C%20China%20vs%20Oman.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Nepal.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=Bz0_spUskrVLHmXrx1QvAQ&expires=1790302842&ch=willowsd&s=e3de6afc487811d73f13a7c8872b1c26
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hong%20Kong%2C%20China%20vs%20Oman.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=D-Iaxva9k83EORQZi_0Oyg&expires=1790320839&ch=willowsd&s=348cc51d0be4bce9b65750d04a69ade0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Nepal.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=kEtCpuJv6_O75qB3iWz7kQ&expires=1790302850&ch=wextres5&s=6b499d2355c566318e6e28743b98226f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hong%20Kong%2C%20China%20vs%20Oman.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=willowextra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Nepal.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=NW5F-_bJP-_lrvyYD1Yj-A&expires=1790302853&ch=ten1co&s=ddcc524213fa42593daacb87b523c84e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hong%20Kong%2C%20China%20vs%20Oman.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=APW9FL8ZNzcGoQHFhZDwhg&expires=1790320852&ch=ten1co&s=af23b9f44298c4037ad9e6f7c9e0abb7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Nepal.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=BhMdZc7vIrIeTEK-LzTriQ&expires=1790302856&ch=hdwillos5&s=9f484f8c48682581656cdc61c763a43f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hong%20Kong%2C%20China%20vs%20Oman.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=lkMA1equuipqcCJkqXkA5w&expires=1790320855&ch=hdwillos5&s=f3dabffee8fd9142bdca5db37a4b6bab
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Nepal.png" group-title="International TV Channel",like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/cricgo1.m3u8?md5=irVK6rayPjSMWhtP-fHcbw&expires=1790302858&ch=cricgo1&s=5c40f5dc29b1ec918e0d1ef27c8ccd21
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20Milwaukee%20Brewers.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/cricgo1.m3u8?md5=-MYR7uTEEW7U8K0nUpt47w&expires=1790320857&ch=cricgo1&s=433b5f631544dbd5b7c39407a261643d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Seoul.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790383654-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-45bce50d71197f0112975a884e67f908
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20Red%20Sox%20vs%20Cleveland%20Guardians.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790401654-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0172f5b071c2985b40b637b6102d9f23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790383659-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a4f5e5f9adfff1c83c2186959054f253
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Flyers%20vs%20Boston%20Bruins.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1790401668-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9943282399f2b2eb463cba0c5f60cb4e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52440/720p/chunks.m3u8?is_vip=false&token=1790383665-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d1b9368cb294db306d0a5b5fe00a6b52
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Red%20Wings%20vs%20Buffalo%20Sabres.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790401672-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-199715280e2f8188037c4e984cd5606f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52441/720p/chunks.m3u8?is_vip=false&token=1790383671-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-086f4ecbcba3f28530c2d38b4b3e1bc8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Rangers%20vs%20New%20Jersey%20Devils.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-tc-iptv.rumsport10.live/live_abr/61349/720p/chunks.m3u8?is_vip=false&token=1790401680-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6fe554f971a8f96868c5866e1b44604e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20vs%20Manawat%C5%AB.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52443/720p/chunks.m3u8?is_vip=false&token=1790383684-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d569aacae155daa09f48c4d7284ff223
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Lightning%20vs%20Florida%20Panthers.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52442/720p/chunks.m3u8?is_vip=false&token=1790383691-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cdfbf0a1c2aabfed648386f93884b52c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Yankees%20vs%20Tampa%20Bay%20Rays.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1790383697-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ce3db8de528df2840a5c38f5cc6c5fc8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta%20Braves%20vs%20Cincinnati%20Reds.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1790383711-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f756e99bb142416f334feeeecca5507b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Blues%20vs%20Chicago%20Blackhawks.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52444/720p/chunks.m3u8?is_vip=false&token=1790383716-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-686c11ce56f1f5287dc6709742dc37ec
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Green%20Bay%20Packers%20vs%20Atlanta%20Falcons.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52455/720p/chunks.m3u8?is_vip=false&token=1790383727-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7a447ef97d77b471aa817d3bbe2866c9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Connecticut%20Sun.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510821/720p/chunks.m3u8?is_vip=false&token=1790383737-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-79003df38f47c06d1de268e7ce1e935f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Sky%20vs%20Washington%20Mystics.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510822/720p/chunks.m3u8?is_vip=false&token=1790383744-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3649c2d4032c7271fd2732ccde96951f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/UFC%20BJJ%2011%20MUSUMECI%20vs%20MITCHELL.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1790383750-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1dcbf7b7ecb0cac5b2d8cc72ae4d26a9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dominican%20Republic%20vs%20Nicaragua.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347fb/chunks.m3u8?is_vip=false&token=1790383756-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fcceb74474833bbe6326a27eb0053b59
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cayman%20Islands%20vs%20Dominica.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347fc/chunks.m3u8?is_vip=false&token=1790383762-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9643f6ee318d17cf0ad9dad5e7820a99
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Haiti%20vs%20Trinidad%20and%20Tobago.jpg" group-title="International TV Channel",like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347fa/chunks.m3u8?is_vip=false&token=1790383769-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8cda9ba352915dd68dff8995f59fd8bf
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790401687-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8cec15602628dfc155c2fab82d147df8
