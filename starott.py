@@ -23,17 +23,33 @@ def fix_jagobd_url(stream_url):
     JagoBD লিংক ঠিক করে:
     - static.jagobd.com.bd  ->  app24.jagobd.com.bd
     - ?wmsAuthSign=... এবং |referrer=... অংশ মুছে ফেলে
-    অন্য কোনো লিংকে হাত দেয় না।
     """
     if JAGOBD_OLD_HOST not in stream_url:
         return stream_url
 
-    # ? অথবা | এর পরের সব অংশ (wmsAuthSign, referrer) কেটে ফেলা
+    # ? অথবা | এর পরের সব অংশ কেটে ফেলা
     stream_url = re.split(r'[?|]', stream_url, maxsplit=1)[0]
 
     # হোস্ট পরিবর্তন
     stream_url = stream_url.replace(JAGOBD_OLD_HOST, JAGOBD_NEW_HOST)
     return stream_url.strip()
+
+
+def remove_referrer_from_url(stream_url):
+    """
+    যেকোনো লিংক থেকে |referrer=... / |referer=... অংশ মুছে ফেলে।
+    অন্য প্যারামিটার (যেমন user-agent) থাকলে সেগুলো রেখে দেয়।
+    """
+    if "|" not in stream_url:
+        return stream_url
+    base, *params = stream_url.split("|")
+    kept = [p for p in params if not re.match(r'(?i)\s*(http-)?referr?er\s*=', p)]
+    return "|".join([base] + kept).strip()
+
+
+def is_referrer_option(line):
+    """#EXTVLCOPT:http-referrer=... বা #EXTVLCOPT:http-referer=... লাইন কিনা চেক করে"""
+    return re.search(r'(?i)referr?er', line) is not None
 
 
 def clean_channel_and_telegram(text):
@@ -119,6 +135,9 @@ def create_starott_playlist():
                     # 🔁 JagoBD লিংক ঠিক করা (static -> app24, wmsAuthSign ও referrer বাদ)
                     stream_url = fix_jagobd_url(stream_url)
 
+                    # 🚫 সব লিংক থেকে referrer মুছে ফেলা
+                    stream_url = remove_referrer_from_url(stream_url)
+
                     # 🚫 গুগল ড্রাইভ এবং প্লেজ (playz / playztv) লিংক ফিল্টার
                     if "drive.google.com" in stream_url or "playztv.pages.dev" in stream_url or "playz" in stream_url.lower() or "playz" in ext_block.lower():
                         continue
@@ -142,9 +161,14 @@ def create_starott_playlist():
 
                         # চ্যানেলের ডাটা ব্লক তৈরি
                         channel_block = f'#EXTINF:-1 tvg-logo="{final_logo}" group-title="{final_group}",{final_name}\n'
+
+                        # অন্য EXTVLCOPT রাখা হবে, কিন্তু referrer লাইন বাদ
                         extra_opts = re.findall(r'(#EXTVLCOPT:[^\n]+)', ext_block)
                         for opt in extra_opts:
+                            if is_referrer_option(opt):
+                                continue
                             channel_block += opt + "\n"
+
                         channel_block += stream_url + "\n"
 
                         playlist_groups[final_group].append(channel_block)
