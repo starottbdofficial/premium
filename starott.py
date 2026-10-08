@@ -5,7 +5,7 @@ import re
 
 # আপনার স্পোর্টস ও টিভি সোর্স ইউআরএলগুলো
 urls = [
-    "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u",
+    "https://raw.githubusercontent.com/sm-monirulislam/jago_bd_auto_update_playlist-/refs/heads/main/jago_bd.m3u",
     "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/iptv.m3u8"
 ]
